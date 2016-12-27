@@ -1,0 +1,16 @@
+{
+  "name": "喜马拉雅",
+   "author": "shooter",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_title": "@"
+   },
+   "description": "喜马拉雅音频提取",
+   "manifest_version": 2,
+   "permissions": [ "tabs", "webRequest", "webRequestBlocking", "*://*/*" ],
+   "short_name": "邹倩雯",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.1"
+}
