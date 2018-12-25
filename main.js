@@ -123,8 +123,8 @@ $("#zqw-start").click(function(){
     dataType: "json",
     data: {
       device: "pc",
-      uid: '', //xm.util.account.getUid()
-      token: '', //xm.util.account.getToken()
+      uid: '13192073', //xm.util.account.getUid()
+      token: '0063756406c9704f2d09c450dd55e1bf5dd2', //xm.util.account.getToken()
       isBackend: false
     },
     method: "GET",
